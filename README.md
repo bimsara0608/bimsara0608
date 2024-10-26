@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a 3D printing platform**
+  I’m currently working on **a 3D printing platform**
 
-💬 Ask me about **Robotics, Embeded systems, ... or anything [here](https://github.com/bimsara0608/bimsara-portfolio/issues)**
+ Ask me about **Robotics, Embeded systems, ... or anything [here](https://github.com/bimsara0608/bimsara-portfolio/issues)**
 
 
  </div>
