@@ -1,7 +1,7 @@
 ![MasterHead](/Banner_updated.jpg)
 
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=45&center=true&vCenter=true&color=F77556&width=800&height=70&duration=5000&lines=+Welcome+To+My+Profile+👋;+I'm+Bimsara+Gunawardana;" />
 </h1>
 
