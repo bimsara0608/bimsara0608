@@ -1,7 +1,7 @@
 ![MasterHead](/Banner_updated.jpg)
 
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=45&center=true&vCenter=true&color=F77556&width=800&height=70&duration=5000&lines=+Welcome+To+My+Profile+👋;+I'm+Bimsara+Gunawardana;" />
 </h1>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
  
- ⚙️ I’m currently working on **a 3D printing platform**
+ ⚙️ I’m currently working on **a 3D printing platform and a sensor based data acquisition system**
 
  ⁉️ Ask me about **Robotics, Embeded systems, 3D modeling ... or anything [here](https://github.com/bimsara0608/bimsara-portfolio/issues)**
 
