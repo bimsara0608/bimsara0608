@@ -37,7 +37,8 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bimsara0608&theme=dark&hide_border=false&include_all_commits=true&count_private=false&card_width=1000)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bimsara0608&theme=dark&hide_border=false&card_width=1000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bimsara0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bimsara0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&card_width=1000)
+
 
 ---
 <img src="https://komarev.com/ghpvc/?username=bimsara0608&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
