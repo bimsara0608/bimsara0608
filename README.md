@@ -10,6 +10,7 @@
 <br/>
 
 <div align="center">
+ Hi, I’m passionate about turning creative ideas into real-world solutions. I love working at the intersection of robotics, embedded systems, and 3D design, constantly exploring how technology can solve problems and inspire innovation.
  
  ⚙️ I’m currently working on **a 3D printing platform and a sensor based data acquisition system**
 
